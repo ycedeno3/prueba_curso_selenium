@@ -3,7 +3,7 @@
     <test name="Test">
         <classes>
             <class name="test.validarTituloTest"/>
-            <!--        Se comento este suite de prueba segun lo comentado en correo-->
+            <!--        Profesor, se comento este suite de prueba segun lo comentado en correo -->
             <!--        <class name="test.printTagsTest"/> -->
             <class name="test.loginToNetflixErrorTest"/>
             <class name="test.inicioSessionPageTest"/>
